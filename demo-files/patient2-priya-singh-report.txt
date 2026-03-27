@@ -1,0 +1,214 @@
+═══════════════════════════════════════════════════════════════
+                    MEDICAL LABORATORY REPORT
+═══════════════════════════════════════════════════════════════
+
+PATIENT INFORMATION
+═══════════════════════════════════════════════════════════════
+Patient Name:        Priya Singh
+Patient ID:          GV-2026-5932
+Date of Birth:       22-Jul-1992 (Age: 33 years)
+Gender:              Female
+Contact:             +91-9123456789
+Report Date:         06-March-2026
+Physician:           Dr. Amit Patel, MD (Internal Medicine)
+
+═══════════════════════════════════════════════════════════════
+                    GLUCOSE METABOLISM PANEL
+═══════════════════════════════════════════════════════════════
+
+FASTING BLOOD GLUCOSE
+Result:              92 mg/dL
+Reference Range:     70-100 mg/dL (Normal)
+                     100-125 mg/dL (Prediabetic)
+                     ≥126 mg/dL (Diabetic)
+Status:              ✓ NORMAL
+
+POSTPRANDIAL GLUCOSE (2 hours after meal)
+Result:              118 mg/dL
+Reference Range:     <140 mg/dL (Normal)
+Status:              ✓ NORMAL
+
+HbA1c (Glycated Hemoglobin)
+Result:              5.3%
+Reference Range:     <5.7% (Normal)
+                     5.7-6.4% (Prediabetic)
+                     ≥6.5% (Diabetic)
+Status:              ✓ NORMAL
+
+ORAL GLUCOSE TOLERANCE TEST (OGTT)
+Fasting:             90 mg/dL (✓ Normal)
+30 min:              145 mg/dL (✓ Normal)
+60 min:              132 mg/dL (✓ Normal)
+90 min:              108 mg/dL (✓ Normal)
+120 min:             95 mg/dL (✓ Normal)
+
+═══════════════════════════════════════════════════════════════
+                    METABOLIC PARAMETERS
+═══════════════════════════════════════════════════════════════
+
+BODY MASS INDEX (BMI)
+Height:              162 cm (5'4")
+Weight:              58.2 kg (128.3 lbs)
+BMI:                 22.1 kg/m²
+Category:            ✓ NORMAL WEIGHT
+Reference:           18.5-24.9 (Normal)
+                     25.0-29.9 (Overweight)
+                     ≥30.0 (Obese)
+
+WAIST CIRCUMFERENCE
+Measurement:         76 cm
+Status:              ✓ Normal (<80 cm for women)
+
+LIPID PROFILE
+Total Cholesterol:   178 mg/dL (✓ Desirable)
+LDL Cholesterol:     102 mg/dL (✓ Near Optimal)
+HDL Cholesterol:     58 mg/dL (✓ Good)
+Triglycerides:       88 mg/dL (✓ Normal)
+VLDL:                18 mg/dL (✓ Normal)
+
+═══════════════════════════════════════════════════════════════
+                    VITAL SIGNS & CARDIOVASCULAR
+═══════════════════════════════════════════════════════════════
+
+BLOOD PRESSURE
+Systolic:            118 mmHg
+Diastolic:           76 mmHg
+Status:              ✓ NORMAL
+Reference:           <120/80 (Normal)
+
+HEART RATE
+Resting HR:          68 BPM
+Status:              ✓ Normal (60-100 BPM)
+Heart Rate Variability: Good
+
+PULSE OXIMETRY
+SpO2:                99%
+Status:              ✓ Excellent (95-100%)
+
+ECG FINDINGS
+Rhythm:              Normal Sinus Rhythm
+Rate:                68 BPM
+Intervals:           Normal
+Interpretation:      ✓ No abnormalities detected
+
+═══════════════════════════════════════════════════════════════
+                    THYROID FUNCTION TESTS
+═══════════════════════════════════════════════════════════════
+
+TSH:                 2.4 mIU/L (✓ Normal: 0.4-4.0)
+Free T4:             1.2 ng/dL (✓ Normal: 0.8-1.8)
+Free T3:             3.1 pg/mL (✓ Normal: 2.3-4.2)
+
+═══════════════════════════════════════════════════════════════
+                    KIDNEY & LIVER FUNCTION
+═══════════════════════════════════════════════════════════════
+
+KIDNEY FUNCTION
+Serum Creatinine:    0.8 mg/dL (✓ Normal: 0.6-1.2)
+Blood Urea:          18 mg/dL (✓ Normal: 7-20)
+eGFR:                >90 mL/min/1.73m² (✓ Normal)
+Uric Acid:           4.2 mg/dL (✓ Normal: 2.4-6.0)
+
+LIVER FUNCTION
+SGOT (AST):          24 U/L (✓ Normal: 0-40)
+SGPT (ALT):          28 U/L (✓ Normal: 0-41)
+Bilirubin Total:     0.7 mg/dL (✓ Normal: 0.3-1.2)
+Albumin:             4.2 g/dL (✓ Normal: 3.5-5.5)
+
+═══════════════════════════════════════════════════════════════
+                    COMPLETE BLOOD COUNT (CBC)
+═══════════════════════════════════════════════════════════════
+
+Hemoglobin:          13.2 g/dL (✓ Normal: 12-16)
+RBC Count:           4.5 million/μL (✓ Normal)
+WBC Count:           7,200/μL (✓ Normal: 4,000-11,000)
+Platelet Count:      245,000/μL (✓ Normal: 150,000-400,000)
+Hematocrit:          39.5% (✓ Normal: 36-46%)
+
+═══════════════════════════════════════════════════════════════
+                    VITAMIN & MINERAL LEVELS
+═══════════════════════════════════════════════════════════════
+
+Vitamin D (25-OH):   32 ng/mL (✓ Sufficient: 30-100)
+Vitamin B12:         485 pg/mL (✓ Normal: 200-900)
+Folate:              12.5 ng/mL (✓ Normal: >5.4)
+Iron:                78 μg/dL (✓ Normal: 60-170)
+Ferritin:            45 ng/mL (✓ Normal: 12-150)
+Calcium:             9.4 mg/dL (✓ Normal: 8.5-10.5)
+Magnesium:           2.1 mg/dL (✓ Normal: 1.7-2.2)
+
+═══════════════════════════════════════════════════════════════
+                    CLINICAL INTERPRETATION
+═══════════════════════════════════════════════════════════════
+
+RISK ASSESSMENT:     ✓ NORMAL - LOW RISK
+
+KEY FINDINGS:
+• All glucose parameters within normal range
+• Excellent HbA1c at 5.3% - optimal glucose control
+• BMI 22.1 - healthy weight range
+• Blood pressure 118/76 - optimal cardiovascular health
+• Lipid profile excellent with good HDL levels
+• All organ function tests normal
+
+LIFESTYLE ASSESSMENT:
+• Regular exercise routine: 5 days/week (45 min cardio + strength)
+• Balanced diet with good nutritional intake
+• Adequate sleep: 7-8 hours/night
+• Stress management: Practices yoga and meditation
+• No smoking, occasional alcohol consumption
+
+RECOMMENDATIONS:
+1. Maintenance Plan:
+   - Continue current exercise regimen
+   - Maintain balanced Mediterranean-style diet
+   - Keep hydration levels optimal (2-3L water/day)
+   - Continue stress management practices
+
+2. Preventive Care:
+   - Annual health screening recommended
+   - Continue vitamin D supplementation (1000 IU/day)
+   - Maintain healthy sleep patterns
+   - Regular dental and eye checkups
+
+3. Monitoring:
+   - Routine glucose check every 6 months
+   - Annual lipid profile
+   - Blood pressure monitoring monthly
+   - Next comprehensive checkup in 12 months
+
+4. Family Planning Considerations:
+   - All parameters optimal for pregnancy if planned
+   - Continue folic acid supplementation
+   - Preconception counseling available if needed
+
+═══════════════════════════════════════════════════════════════
+                    PHYSICIAN NOTES
+═══════════════════════════════════════════════════════════════
+
+Patient demonstrates excellent health markers and lifestyle 
+habits. No family history of diabetes or cardiovascular disease.
+Regular exercise and balanced nutrition contributing to optimal
+metabolic health.
+
+Patient enrolled in preventive health monitoring program with
+AI-powered tracking for continued wellness optimization. Educated
+on maintaining current healthy lifestyle patterns.
+
+Commended for proactive approach to health management.
+
+Next Review: 06-March-2027 (Annual Checkup)
+
+═══════════════════════════════════════════════════════════════
+
+Authorized by: Dr. Amit Patel, MD
+License No: MED-2018-67890
+Digital Signature: [VERIFIED]
+Lab Accreditation: NABL ISO 15189:2012
+
+Report Generated: 06-March-2026 11:15 AM
+Lab Reference: LAB-2026-03-0598
+
+═══════════════════════════════════════════════════════════════
+                    END OF REPORT
+═══════════════════════════════════════════════════════════════

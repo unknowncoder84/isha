@@ -1,0 +1,54 @@
+═══════════════════════════════════════════════════════════════
+  NETLIFY ENVIRONMENT VARIABLES
+  Copy these values when deploying to Netlify
+═══════════════════════════════════════════════════════════════
+
+Add these 4 environment variables in Netlify Dashboard:
+Site Settings → Environment Variables → Add a variable
+
+───────────────────────────────────────────────────────────────
+VARIABLE 1:
+───────────────────────────────────────────────────────────────
+Key:
+NEXT_PUBLIC_API_URL
+
+Value:
+http://localhost:8000
+
+───────────────────────────────────────────────────────────────
+VARIABLE 2:
+───────────────────────────────────────────────────────────────
+Key:
+NEXT_PUBLIC_SUPABASE_URL
+
+Value:
+https://ccpmyfhgzayjkjmcbwwq.supabase.co
+
+───────────────────────────────────────────────────────────────
+VARIABLE 3:
+───────────────────────────────────────────────────────────────
+Key:
+NEXT_PUBLIC_SUPABASE_ANON_KEY
+
+Value:
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNjcG15ZmhnemF5amtqbWNid3dxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzI4MTE3ODgsImV4cCI6MjA4ODM4Nzc4OH0.iqV8if9KV_mxxvFzOa__8ZzRLgqCbLIkD5xEffWlWv8
+
+───────────────────────────────────────────────────────────────
+VARIABLE 4:
+───────────────────────────────────────────────────────────────
+Key:
+SUPABASE_SERVICE_ROLE_KEY
+
+Value:
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNjcG15ZmhnemF5amtqbWNid3dxIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc3MjgxMTc4OCwiZXhwIjoyMDg4Mzg3Nzg4fQ.X77gBF-ZtE_A7JRZCYAxt2IH4BD8croYQW8JwHS2RFc
+
+═══════════════════════════════════════════════════════════════
+
+⚠️ IMPORTANT NOTES:
+
+1. These are the SAME values from your .env.local file
+2. Add them during Netlify deployment setup
+3. You can also add them later in Site Settings
+4. Keep these values secure and private
+
+═══════════════════════════════════════════════════════════════

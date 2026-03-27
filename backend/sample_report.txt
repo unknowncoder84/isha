@@ -1,0 +1,30 @@
+MEDICAL LABORATORY REPORT
+Patient ID: GV-2026-4821
+Date: March 1, 2026
+
+GLUCOSE PANEL
+Fasting Glucose: 128.5 mg/dL
+HbA1c: 6.2%
+
+VITAL SIGNS
+Blood Pressure: 128/82 mmHg
+Heart Rate: 78 bpm
+Temperature: 98.6°F
+
+BODY METRICS
+Height: 5'9" (175 cm)
+Weight: 185 lbs (84 kg)
+BMI: 25.3
+
+LIPID PANEL
+Total Cholesterol: 195 mg/dL
+LDL: 120 mg/dL
+HDL: 55 mg/dL
+Triglycerides: 140 mg/dL
+
+NOTES:
+Patient shows elevated fasting glucose levels indicating prediabetic condition.
+Recommend lifestyle modifications and follow-up in 3 months.
+
+Dr. [Name]
+Medical Laboratory Services

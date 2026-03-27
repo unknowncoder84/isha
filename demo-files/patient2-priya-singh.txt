@@ -1,0 +1,46 @@
+MEDICAL REPORT
+================================================================================
+
+Patient Information:
+-------------------
+Name: Priya Singh
+Age: 38 years
+Gender: Female
+Patient ID: DMS-2026-002
+Date: March 6, 2026
+
+Vital Signs & Measurements:
+---------------------------
+Blood Glucose (Fasting): 156 mg/dL
+BMI (Body Mass Index): 29.2
+Heart Rate: 82 BPM
+Blood Pressure: 138/88 mmHg
+Weight: 72 kg
+Height: 158 cm
+
+Laboratory Results:
+------------------
+HbA1c: 7.1%
+Total Cholesterol: 215 mg/dL
+LDL Cholesterol: 142 mg/dL
+HDL Cholesterol: 42 mg/dL
+Triglycerides: 185 mg/dL
+
+Clinical Assessment:
+-------------------
+Patient diagnosed with Type 2 Diabetes Mellitus. Elevated glucose levels
+and HbA1c indicate poor glycemic control. BMI in obese category.
+Immediate intervention required with medication and lifestyle changes.
+
+Recommendations:
+---------------
+1. Start Metformin 500mg twice daily
+2. Strict diabetic diet - consult nutritionist
+3. Daily blood glucose monitoring
+4. Weight reduction program - target 10% weight loss
+5. Regular exercise - minimum 45 minutes daily
+6. Follow-up in 2 weeks for medication adjustment
+
+Physician: Dr. Amit Patel, MD
+Diabetology & Endocrinology
+Fortis Hospital, Delhi

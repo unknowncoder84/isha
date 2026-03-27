@@ -1,0 +1,305 @@
+═══════════════════════════════════════════════════════════════
+                    MEDICAL LABORATORY REPORT
+                        ⚠ URGENT REVIEW REQUIRED
+═══════════════════════════════════════════════════════════════
+
+PATIENT INFORMATION
+═══════════════════════════════════════════════════════════════
+Patient Name:        Arjun Mehta
+Patient ID:          GV-2026-7245
+Date of Birth:       10-Nov-1978 (Age: 47 years)
+Gender:              Male
+Contact:             +91-9988776655
+Report Date:         06-March-2026
+Physician:           Dr. Priya Sharma, MD (Endocrinology)
+
+═══════════════════════════════════════════════════════════════
+                    GLUCOSE METABOLISM PANEL
+═══════════════════════════════════════════════════════════════
+
+FASTING BLOOD GLUCOSE
+Result:              168 mg/dL
+Reference Range:     70-100 mg/dL (Normal)
+                     100-125 mg/dL (Prediabetic)
+                     ≥126 mg/dL (Diabetic)
+Status:              ⚠⚠ DIABETIC RANGE - IMMEDIATE ATTENTION
+
+POSTPRANDIAL GLUCOSE (2 hours after meal)
+Result:              245 mg/dL
+Reference Range:     <140 mg/dL (Normal)
+Status:              ⚠⚠ SEVERELY ELEVATED
+
+HbA1c (Glycated Hemoglobin)
+Result:              8.7%
+Reference Range:     <5.7% (Normal)
+                     5.7-6.4% (Prediabetic)
+                     ≥6.5% (Diabetic)
+Status:              ⚠⚠ DIABETIC - POOR CONTROL
+
+RANDOM BLOOD GLUCOSE (Multiple readings)
+Morning:             172 mg/dL (⚠⚠ High)
+Afternoon:           198 mg/dL (⚠⚠ High)
+Evening:             215 mg/dL (⚠⚠ High)
+
+═══════════════════════════════════════════════════════════════
+                    METABOLIC PARAMETERS
+═══════════════════════════════════════════════════════════════
+
+BODY MASS INDEX (BMI)
+Height:              172 cm (5'8")
+Weight:              92.5 kg (203.9 lbs)
+BMI:                 31.2 kg/m²
+Category:            ⚠⚠ OBESE CLASS I
+Reference:           18.5-24.9 (Normal)
+                     25.0-29.9 (Overweight)
+                     30.0-34.9 (Obese Class I)
+                     ≥35.0 (Obese Class II)
+
+WAIST CIRCUMFERENCE
+Measurement:         108 cm
+Status:              ⚠⚠ High Risk (>102 cm for men)
+                     Indicates central obesity
+
+LIPID PROFILE
+Total Cholesterol:   268 mg/dL (⚠⚠ High)
+LDL Cholesterol:     178 mg/dL (⚠⚠ Very High)
+HDL Cholesterol:     35 mg/dL (⚠⚠ Low - High Risk)
+Triglycerides:       312 mg/dL (⚠⚠ Very High)
+VLDL:                62 mg/dL (⚠⚠ High)
+TC/HDL Ratio:        7.7 (⚠⚠ High Risk: >5.0)
+
+═══════════════════════════════════════════════════════════════
+                    VITAL SIGNS & CARDIOVASCULAR
+═══════════════════════════════════════════════════════════════
+
+BLOOD PRESSURE
+Systolic:            148 mmHg
+Diastolic:           94 mmHg
+Status:              ⚠⚠ STAGE 2 HYPERTENSION
+Reference:           <120/80 (Normal)
+                     120-129/<80 (Elevated)
+                     130-139/80-89 (Stage 1)
+                     ≥140/90 (Stage 2)
+
+HEART RATE
+Resting HR:          92 BPM
+Status:              ⚠ Elevated (Normal: 60-100 BPM)
+Heart Rate Variability: Reduced
+
+PULSE OXIMETRY
+SpO2:                96%
+Status:              ✓ Acceptable (95-100%)
+
+ECG FINDINGS
+Rhythm:              Normal Sinus Rhythm
+Rate:                92 BPM
+Intervals:           Borderline prolonged QTc
+Interpretation:      ⚠ Minor abnormalities - follow-up recommended
+
+═══════════════════════════════════════════════════════════════
+                    KIDNEY FUNCTION TESTS
+═══════════════════════════════════════════════════════════════
+
+Serum Creatinine:    1.4 mg/dL (⚠ Elevated: Normal 0.7-1.3)
+Blood Urea:          42 mg/dL (⚠ Elevated: Normal 7-20)
+eGFR:                68 mL/min/1.73m² (⚠ Stage 2 CKD)
+                     Normal: >90
+                     Stage 2 CKD: 60-89
+Uric Acid:           8.2 mg/dL (⚠ High: Normal 3.4-7.0)
+Microalbumin:        85 mg/L (⚠ Elevated: Normal <30)
+Albumin/Creatinine:  42 mg/g (⚠ Microalbuminuria)
+
+═══════════════════════════════════════════════════════════════
+                    LIVER FUNCTION TESTS
+═══════════════════════════════════════════════════════════════
+
+SGOT (AST):          52 U/L (⚠ Elevated: Normal 0-40)
+SGPT (ALT):          68 U/L (⚠ Elevated: Normal 0-41)
+GGT:                 78 U/L (⚠ Elevated: Normal 0-51)
+Bilirubin Total:     1.1 mg/dL (✓ Normal: 0.3-1.2)
+Albumin:             3.8 g/dL (✓ Normal: 3.5-5.5)
+Status:              ⚠ Fatty Liver Disease suspected
+
+═══════════════════════════════════════════════════════════════
+                    COMPLETE BLOOD COUNT (CBC)
+═══════════════════════════════════════════════════════════════
+
+Hemoglobin:          14.2 g/dL (✓ Normal: 13-17)
+RBC Count:           4.8 million/μL (✓ Normal)
+WBC Count:           9,800/μL (✓ Normal: 4,000-11,000)
+Platelet Count:      285,000/μL (✓ Normal: 150,000-400,000)
+Hematocrit:          42.5% (✓ Normal: 40-54%)
+
+═══════════════════════════════════════════════════════════════
+                    INFLAMMATORY MARKERS
+═══════════════════════════════════════════════════════════════
+
+C-Reactive Protein:  8.5 mg/L (⚠ Elevated: Normal <3.0)
+ESR:                 28 mm/hr (⚠ Elevated: Normal <15)
+Status:              ⚠ Chronic inflammation present
+
+═══════════════════════════════════════════════════════════════
+                    DIABETIC COMPLICATIONS SCREENING
+═══════════════════════════════════════════════════════════════
+
+RETINOPATHY SCREENING
+Fundoscopy:          ⚠ Early background diabetic retinopathy
+                     Microaneurysms detected
+Recommendation:      Ophthalmology referral required
+
+NEUROPATHY SCREENING
+Monofilament Test:   ⚠ Reduced sensation in feet (6/10 points)
+Vibration Sense:     ⚠ Diminished
+Ankle Reflexes:      ⚠ Reduced bilaterally
+Status:              ⚠ Early peripheral neuropathy
+
+FOOT EXAMINATION
+Pulses:              Palpable but weak
+Skin:                Dry, some calluses
+Nails:               Thickened
+Risk Category:       ⚠ Moderate Risk - requires podiatry care
+
+═══════════════════════════════════════════════════════════════
+                    CLINICAL INTERPRETATION
+═══════════════════════════════════════════════════════════════
+
+DIAGNOSIS:           ⚠⚠ TYPE 2 DIABETES MELLITUS
+                     ⚠⚠ METABOLIC SYNDROME
+                     ⚠⚠ STAGE 2 HYPERTENSION
+                     ⚠ EARLY DIABETIC COMPLICATIONS
+
+RISK ASSESSMENT:     ⚠⚠ HIGH RISK - REQUIRES IMMEDIATE INTERVENTION
+
+CRITICAL FINDINGS:
+• HbA1c 8.7% - indicates poor glucose control over 3 months
+• Fasting glucose 168 mg/dL - significantly elevated
+• BMI 31.2 - obesity contributing to insulin resistance
+• Blood pressure 148/94 - Stage 2 hypertension
+• Kidney function declining (eGFR 68, microalbuminuria present)
+• Early diabetic retinopathy and neuropathy detected
+• Fatty liver disease suspected
+• High cardiovascular risk (elevated lipids, inflammation)
+
+COMPLICATIONS PRESENT:
+1. Early Diabetic Retinopathy
+2. Peripheral Neuropathy (early stage)
+3. Diabetic Nephropathy (Stage 2 CKD)
+4. Non-Alcoholic Fatty Liver Disease (NAFLD)
+5. Cardiovascular Risk Factors
+
+═══════════════════════════════════════════════════════════════
+                    IMMEDIATE TREATMENT PLAN
+═══════════════════════════════════════════════════════════════
+
+MEDICATIONS (To be started immediately):
+1. Metformin 500mg - twice daily with meals
+   (Titrate to 1000mg twice daily over 2 weeks)
+
+2. Glimepiride 2mg - once daily before breakfast
+   (May adjust based on glucose response)
+
+3. Atorvastatin 20mg - once daily at bedtime
+   (For lipid management)
+
+4. Ramipril 5mg - once daily
+   (For blood pressure and kidney protection)
+
+5. Aspirin 75mg - once daily
+   (Cardiovascular protection)
+
+URGENT LIFESTYLE MODIFICATIONS:
+1. Diet:
+   - Strict carbohydrate restriction (<150g/day)
+   - Eliminate refined sugars completely
+   - Increase fiber intake (25-30g/day)
+   - Reduce saturated fats
+   - Caloric restriction for weight loss (1500-1800 kcal/day)
+   - Consult dietitian within 1 week
+
+2. Exercise:
+   - Start with 30 minutes walking daily
+   - Gradually increase to 150 minutes/week
+   - Include resistance training 2x/week
+   - Monitor glucose before and after exercise
+
+3. Weight Loss:
+   - Target: Lose 10% body weight (9-10 kg) in 6 months
+   - Weekly weight monitoring
+   - Consider bariatric consultation if no progress
+
+4. Blood Pressure Management:
+   - Home BP monitoring twice daily
+   - Reduce sodium intake (<1500mg/day)
+   - Stress reduction techniques
+
+MONITORING REQUIREMENTS:
+• Daily fasting and post-meal glucose monitoring
+• Weekly BP monitoring at home
+• HbA1c recheck in 3 months (Target: <7.0%)
+• Kidney function tests every 3 months
+• Lipid profile in 3 months
+• Liver function tests in 2 months
+
+SPECIALIST REFERRALS:
+1. Ophthalmologist - Within 2 weeks (retinopathy management)
+2. Nephrologist - Within 1 month (kidney protection)
+3. Cardiologist - Within 1 month (cardiovascular risk assessment)
+4. Dietitian - Within 1 week (meal planning)
+5. Diabetes Educator - Immediate (self-management training)
+6. Podiatrist - Within 1 month (foot care)
+
+FOLLOW-UP SCHEDULE:
+• Week 1: Medication review and glucose monitoring check
+• Week 2: Dietitian consultation
+• Week 4: Comprehensive review with physician
+• Month 3: HbA1c and full metabolic panel
+• Monthly: Ongoing monitoring and medication adjustment
+
+═══════════════════════════════════════════════════════════════
+                    PHYSICIAN NOTES
+═══════════════════════════════════════════════════════════════
+
+⚠⚠ URGENT: Patient presents with newly diagnosed Type 2 Diabetes
+with multiple complications already present. Strong family history
+(father and uncle with diabetes, both with complications).
+
+Patient admits to sedentary lifestyle, poor dietary habits, and
+high stress levels. Works long hours in IT sector with minimal
+physical activity. Reports frequent urination, increased thirst,
+and fatigue for past 6 months but delayed seeking medical care.
+
+IMMEDIATE ACTIONS TAKEN:
+• Patient counseled on serious nature of condition
+• Diabetes education materials provided
+• Glucose monitoring device prescribed
+• Emergency contact numbers provided
+• Family members involved in care plan
+• Enrolled in intensive diabetes management program
+• AI-powered continuous monitoring activated
+
+PROGNOSIS:
+With aggressive treatment and lifestyle modifications, significant
+improvement expected. However, patient must understand the critical
+importance of adherence to treatment plan. Risk of progression to
+severe complications is high without immediate intervention.
+
+Patient appears motivated after counseling. Family support system
+is strong. Will require close monitoring and frequent follow-ups.
+
+NEXT REVIEW: 13-March-2026 (1 week) - MANDATORY
+
+═══════════════════════════════════════════════════════════════
+
+Authorized by: Dr. Priya Sharma, MD
+License No: MED-2015-45678
+Digital Signature: [VERIFIED]
+Lab Accreditation: NABL ISO 15189:2012
+
+Report Generated: 06-March-2026 02:45 PM
+Lab Reference: LAB-2026-03-0612
+
+⚠ URGENT REPORT - IMMEDIATE PHYSICIAN REVIEW REQUIRED
+
+═══════════════════════════════════════════════════════════════
+                    END OF REPORT
+═══════════════════════════════════════════════════════════════

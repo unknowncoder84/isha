@@ -1,0 +1,45 @@
+MEDICAL REPORT
+================================================================================
+
+Patient Information:
+-------------------
+Name: Rajesh Kumar
+Age: 45 years
+Gender: Male
+Patient ID: DMS-2026-001
+Date: March 5, 2026
+
+Vital Signs & Measurements:
+---------------------------
+Blood Glucose (Fasting): 128 mg/dL
+BMI (Body Mass Index): 26.8
+Heart Rate: 78 BPM
+Blood Pressure: 132/84 mmHg
+Weight: 78 kg
+Height: 170 cm
+
+Laboratory Results:
+------------------
+HbA1c: 6.2%
+Total Cholesterol: 198 mg/dL
+LDL Cholesterol: 125 mg/dL
+HDL Cholesterol: 45 mg/dL
+Triglycerides: 165 mg/dL
+
+Clinical Assessment:
+-------------------
+Patient shows signs of prediabetes with elevated fasting glucose levels.
+BMI indicates overweight category. Blood pressure slightly elevated.
+Recommend lifestyle modifications including diet control and regular exercise.
+
+Recommendations:
+---------------
+1. Reduce carbohydrate intake, focus on whole grains
+2. Exercise 30 minutes daily (walking, yoga)
+3. Monitor blood glucose weekly
+4. Follow-up appointment in 3 months
+5. Consider medication if glucose levels don't improve
+
+Physician: Dr. Priya Sharma, MD
+Endocrinology Department
+Apollo Hospital, Mumbai

@@ -1,0 +1,45 @@
+MEDICAL REPORT
+================================================================================
+
+Patient Information:
+-------------------
+Name: Arjun Mehta
+Age: 52 years
+Gender: Male
+Patient ID: DMS-2026-003
+Date: March 6, 2026
+
+Vital Signs & Measurements:
+---------------------------
+Blood Glucose (Fasting): 92 mg/dL
+BMI (Body Mass Index): 23.5
+Heart Rate: 72 BPM
+Blood Pressure: 118/76 mmHg
+Weight: 68 kg
+Height: 172 cm
+
+Laboratory Results:
+------------------
+HbA1c: 5.4%
+Total Cholesterol: 175 mg/dL
+LDL Cholesterol: 98 mg/dL
+HDL Cholesterol: 52 mg/dL
+Triglycerides: 125 mg/dL
+
+Clinical Assessment:
+-------------------
+Patient shows excellent glycemic control. All parameters within normal range.
+BMI in healthy category. Blood pressure optimal. Continue current lifestyle
+and dietary habits. Regular monitoring recommended for preventive care.
+
+Recommendations:
+---------------
+1. Continue balanced diet with adequate fiber
+2. Maintain current exercise routine
+3. Annual health checkup recommended
+4. Monitor blood glucose quarterly
+5. Keep stress levels managed through yoga/meditation
+
+Physician: Dr. Priya Sharma, MD
+Endocrinology Department
+Apollo Hospital, Mumbai
